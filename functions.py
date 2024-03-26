@@ -3,7 +3,7 @@ def myfunction():
     num1,num2 = 20,40
     print(num1 + num2)
     myfunction()
-
+"""
     #conditon
 def condition():# afunction is not created by its definition
     number = 10
@@ -23,8 +23,9 @@ print("not really")
 condition
 #anything in the function is called the the function definition
 
-"""thats how they write in javascrit and in python we use inden
-function condition(){
+"""
+#thats how they write in javascrit and in python we use inden
+#function condition(){
 
 }
 """
@@ -38,3 +39,4 @@ def mycondition():
     print("this statement is not related to if or else but in the same function")
      
 mycondition()
+"""
